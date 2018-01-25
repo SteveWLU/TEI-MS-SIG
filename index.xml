@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/cms/system/modules/org.tei.www/_common/schemas/teilite.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" rend="home">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TEI Manuscripts Special Interest Group</title>
+                <author>Susan Schreibman, Elena Pierazzo, Edward Vanhoutte</author>
+                <sponsor>TEI-C</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>TEI-C</publisher>
+                <distributor>TEI-C</distributor>
+                <authority>TEI-C</authority>
+                <pubPlace>Gent (Belgium)</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Created in electronic format</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2018-01-11" who="KSH">removed link to http://www.tei-c.org/SIG/Manuscripts/, which will be deleted</change>
+            <change when="2017-11-18" who="KSH">new co-convenor</change>
+            <change when="2013-03-07" who="KSH">Updated convenors</change>
+            <change when="2009-11-30" who="CJR">Added updates from 2009 MM.</change>
+            
+            <change when="2007-04-22" who="CJR">Converted to P5</change>
+            <change when="2004-02-19" who="syd">Made valid; separated out report on Nancy meeting to
+                separate document.</change>
+            <change when="2004-02-19" who="EdwardVanhoutte">creating XML/TeixLite document</change>
+            
+        </revisionDesc>      	
+        
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>The goal of the TEI Special Interest Group on Manuscripts
+                    is to bring together users of the TEI who wish to improve
+                    the encoding strategies for marking up transcriptions and
+                    editions of manuscript materials.</p>
+                
+                
+                <list type="ordered">
+                    <head>This SIG  explores a range of issues common
+                        to editing manuscripts, including:</head>
+                    <item>how to handle time based encoding</item>
+                    <item>how to record place based encoding</item>
+                    <item>how to encode fragments</item>
+                    <item>how to record codicology (the substance of the
+                        medium, ink stints, etc); Robinson noted that the TEI
+                        already has mechanisms to record this, but it needs to
+                        be better documented</item>
+                    <item>issues of substitutions</item>
+                    <item>issues of variation</item>
+                    <item>to clarify the role of  the critical
+                        apparatus tag set in manuscript transcription </item>
+                </list>
+                <p>The group operates by means a mailing list and also has an area on the <ref target="http://wiki.tei-c.org/index.php/SIG:MSS">TEI wiki</ref>.
+                </p>
+<p>NEW: <ref target="http://www.tei-c.org/SIG/Manuscripts/genetic.html">Documents and Genetic Criticism TEI Style</ref>.</p>
+                <p>The SIG is convened by Stephen McCormick and Gerrit Brüning.
+                    The SIG runs a mailing list, which you can join by visiting
+                    <ptr target="http://listserv.brown.edu/tei-ms-sig.html" /></p>
+            </div>
+            <div>
+                <head>Recent Activities</head>
+                <p>
+                    The Manuscript SIG sponsored the following activities during the 2009 TEI Conference and Members' Meeting in Ann Arbor:
+                    
+                    <list><item>a panel "New Tools and Perspectives for Manuscript Editing", organised by Amanda Gailey, with papers delivered by Elena Pierazzo, Jindrich Marek, and Tanya Clement</item>
+                    
+                    <item>a panel "Encoding Genetic Editions", organised by the SIG task force, with presentations by Fotis Jannidis, Elena Pierazzo, Lou Burnard, and Malte Rehbein</item>
+                    
+                    <item>other papers and posters that cover manuscript related topics. e.g.  
+                    the Medieval Nordic Text Archive (Menota; Tone Merete Bruvik, and Odd Einar Haugen), The St. Patrick's Confessio Hypertext Stack (Franz Fischer), Digital Scholarly Editions of Letters and Correspondence (Bert van Raemdonck), Wittgenstein's Nachlass in P5 (Tone Merete Bruvik, Alois Pichler, and Vermund Olstad), the new TEI-EJ journal, and a rountable discussion on "Trends to Watch in the TEI Community"</item>
+                    </list>
+                    Abstracts of the presentations can be found here:  
+                    <ptr target="http://www.lib.umich.edu/spo/teimeeting09/program.html"/>.
+                </p>
+                <p>Furthermore, the annual SIG Business Meeting was held with more than a dozen participants.  Brief minutes can be found <ref target="MSSIG-2009.xml">here</ref>, 
+                        while more detailed minutes can be found on the wiki: <ptr target="http://wiki.tei-c.org/index.php/SIGMS_Minutes_20091114"/>.
+                        </p>
+                    
+            
+                    
+                
+                <!--<p>The SIG met at the Third Annual TEI Members' Meeting in
+                    Nancy, France on <date when="2003-11-08">08 November
+                        2003</date>. The report can be found <ref
+                            target="./mssigr01.html">here</ref></p>
+                <p>The second meeting of the SIG was held at the Fourth Annual TEI Members' Meeting at Johns Hopkins University, Baltimore, USA, <date when="2004-10-23">23 October
+                    2004</date>. The report can be found <ref
+                        target="./mssigr02.html">here</ref></p>-->
+            </div>
+            
+        </body>
+    </text>
+</TEI>
