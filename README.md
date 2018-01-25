@@ -1,2 +1,2 @@
 # TEI-MS-SIG
-TEI Manuscript Special Interest Group
+TEI Manuscripts Special Interest Group
