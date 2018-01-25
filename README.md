@@ -1,2 +1,2 @@
 # TEI-MS-SIG
-TEI Manuscripts Special Interest Group
+This is the Github repository for the TEI Manuscripts Special Interest Group.
