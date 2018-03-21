@@ -52,14 +52,14 @@
                 </list>
                 <p>The group operates by means a mailing list and also has an area on the <ref
                         target="http://wiki.tei-c.org/index.php/SIG:MSS">TEI wiki</ref>. </p>
-                <p>NEW: <ref target="http://www.tei-c.org/SIG/Manuscripts/genetic.html">Documents
-                        and Genetic Criticism TEI Style</ref>.</p>
                 <p>The SIG is convened by Stephen McCormick and Gerrit Brüning. The SIG runs a
                     mailing list, which you can join by visiting <ptr
                         target="http://listserv.brown.edu/tei-ms-sig.html"/></p>
             </div>
             <div>
-                <head>Recent Activities</head>
+                <head>Past Activities</head>
+                <p><ref target="http://www.tei-c.org/SIG/Manuscripts/genetic.html">Documents
+                    and Genetic Criticism TEI Style</ref>.</p>
                 <p> The Manuscript SIG sponsored the following activities during the 2009 TEI
                     Conference and Members' Meeting in Ann Arbor: <list>
                         <item>a panel "New Tools and Perspectives for Manuscript Editing", organised
