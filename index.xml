@@ -36,7 +36,7 @@
                 <p>The goal of the TEI Special Interest Group on Manuscripts is to bring together
                     users of the TEI who wish to improve the encoding strategies for marking up
                     transcriptions and editions of manuscript materials.</p>
-                <list type="ordered">
+                <list type="bulleted">
                     <head>This SIG explores a range of issues common to editing manuscripts,
                         including:</head>
                     <item>how to record the physical appearance of a manuscript or printed
@@ -50,41 +50,38 @@
                     </item>
                 </list>
                 <p>The group operates by means a mailing list and also has an area on the <ref
-                        target="http://wiki.tei-c.org/index.php/SIG:MSS">TEI wiki</ref>. </p>
+                        target="http://wiki.tei-c.org/index.php/SIG:MSS">TEI wiki</ref>.</p>
                 <p>The SIG is convened by Stephen McCormick and Gerrit Brüning. The SIG runs a
                     mailing list, which you can join by visiting <ptr
                         target="http://listserv.brown.edu/tei-ms-sig.html"/></p>
             </div>
             <div>
                 <head>Current Activities</head>
-                <p>The SIG is collecting issues regarding Chapter 11 of the TEI Guidelines on <ref
+                <p>The SIG is collecting issues regarding <ref
+                        target="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html">chapter
+                        11</ref> of the TEI Guidelines on <ref
                         target="https://github.com/SteveWLU/TEI-MS-SIG">GitHub</ref>.</p>
             </div>
             <div>
-                <head>Past Activities</head>
-                <p><ref target="http://www.tei-c.org/SIG/Manuscripts/genetic.html">Documents and
-                        Genetic Criticism TEI Style</ref>.</p>
-                <p> The Manuscript SIG sponsored the following activities during the 2009 TEI
-                    Conference and Members' Meeting in Ann Arbor: <list>
-                        <item>a panel "New Tools and Perspectives for Manuscript Editing", organised
-                            by Amanda Gailey, with papers delivered by Elena Pierazzo, Jindrich
-                            Marek, and Tanya Clement</item>
-                        <item>a panel "Encoding Genetic Editions", organised by the SIG task force,
-                            with presentations by Fotis Jannidis, Elena Pierazzo, Lou Burnard, and
-                            Malte Rehbein</item>
-                        <item>other papers and posters that cover manuscript related topics. e.g.
-                            the Medieval Nordic Text Archive (Menota; Tone Merete Bruvik, and Odd
-                            Einar Haugen), The St. Patrick's Confessio Hypertext Stack (Franz
-                            Fischer), Digital Scholarly Editions of Letters and Correspondence (Bert
-                            van Raemdonck), Wittgenstein's Nachlass in P5 (Tone Merete Bruvik, Alois
-                            Pichler, and Vermund Olstad), the new TEI-EJ journal, and a rountable
-                            discussion on "Trends to Watch in the TEI Community"</item>
-                    </list> Abstracts of the presentations can be found here: <ptr
-                        target="http://www.lib.umich.edu/spo/teimeeting09/program.html"/>. </p>
-                <p>Furthermore, the annual SIG Business Meeting was held with more than a dozen
-                    participants. Brief minutes can be found <ref target="MSSIG-2009.xml"
-                    >here</ref>, while more detailed minutes can be found on the wiki: <ptr
-                        target="http://wiki.tei-c.org/index.php/SIGMS_Minutes_20091114"/>. </p>
+                <head>Recent and Past Activities</head>
+                <p>The Manuscripts SIG has held meetings on all recent TEI Conference and Members'
+                    Meetings.</p>
+                <p>Notable earlier outputs of the SIG:</p>
+                <list type="bulleted">
+                    <item>A <ref target="http://www.tei-c.org/SIG/Manuscripts/genetic.html"
+                            >Workgroup on Genetic Editions</ref> with this SIG developed <ref
+                            target="http://www.tei-c.org/Activities/Council/Working/tcw19.html">An
+                            Encoding Model for Genetic Editions</ref>. The proposal was mostly
+                        integrated in version 2.0 of chapter 11 of the TEI Guidelines (see the <ref
+                            target="http://www.tei-c.org/Vault/P5/current/doc/tei-p5-doc/readme-2.0.html"
+                            >release notes</ref>).</item>
+                    <item>A Critical Apparatus Workgroup wrote a <ref
+                            target="https://wiki.tei-c.org/index.php/Critical_Apparatus_Workgroup"
+                            >report on problems</ref> of the <ref
+                            target="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html"
+                            >Critical Apparatus chapter</ref> and module of the TEI
+                        Guidelines.</item>
+                </list>
             </div>
         </body>
     </text>
