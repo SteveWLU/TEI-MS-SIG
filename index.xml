@@ -39,16 +39,15 @@
                 <list type="ordered">
                     <head>This SIG explores a range of issues common to editing manuscripts,
                         including:</head>
-                    <item>how to handle time based encoding</item>
-                    <item>how to record place based encoding</item>
-                    <item>how to encode fragments</item>
-                    <item>how to record codicology (the substance of the medium, ink stints, etc);
-                        Robinson noted that the TEI already has mechanisms to record this, but it
-                        needs to be better documented</item>
-                    <item>issues of substitutions</item>
-                    <item>issues of variation</item>
-                    <item>to clarify the role of the critical apparatus tag set in manuscript
-                        transcription </item>
+                    <item>how to record the physical appearance of a manuscript or printed
+                        witness</item>
+                    <item>how to record different writing acts</item>
+                    <item>how to encode fragmentary witnesses</item>
+                    <item>how to record codicological information</item>
+                    <item>how to record different kinds of variation within or across
+                        witnesses</item>
+                    <item>how to use the critical apparatus tag set in manuscript transcription
+                    </item>
                 </list>
                 <p>The group operates by means a mailing list and also has an area on the <ref
                         target="http://wiki.tei-c.org/index.php/SIG:MSS">TEI wiki</ref>. </p>
