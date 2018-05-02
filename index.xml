@@ -28,6 +28,7 @@
             <change when="2004-02-19" who="syd">Made valid; separated out report on Nancy meeting to
                 separate document.</change>
             <change when="2004-02-19" who="EdwardVanhoutte">creating XML/TeixLite document</change>
+            <change when="2018-05-02" who="gerritbruening">finish update</change>
         </revisionDesc>
     </teiHeader>
     <text>
