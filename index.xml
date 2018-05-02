@@ -56,6 +56,11 @@
                         target="http://listserv.brown.edu/tei-ms-sig.html"/></p>
             </div>
             <div>
+                <head>Current Activities</head>
+                <p>The SIG is collecting issues regarding Chapter 11 of the TEI Guidelines on <ref
+                        target="https://github.com/SteveWLU/TEI-MS-SIG">GitHub</ref>.</p>
+            </div>
+            <div>
                 <head>Past Activities</head>
                 <p><ref target="http://www.tei-c.org/SIG/Manuscripts/genetic.html">Documents and
                         Genetic Criticism TEI Style</ref>.</p>
