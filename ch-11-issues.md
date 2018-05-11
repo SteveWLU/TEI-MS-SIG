@@ -14,5 +14,8 @@ If an issue refers to single lines of this chapter, the link on these lines shou
 * [all issues opened by created by brettttt](https://github.com/TEIC/TEI/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Abrettttt+)
 * [all issues opened by gerritbruening](https://github.com/TEIC/TEI/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Agerritbruening+)
 
+## introductory comment about document-focused and text-focused transcription
+See Raff's comment https://github.com/TEIC/TEI/issues/1427#issuecomment-214744864.
+
 ## `zone`, `@rotate`, and `@ulx` etc.
 Details may be added by @JSchaeuble.
