@@ -2,7 +2,7 @@
 
 ## technical information
 Issues refer to https://github.com/TEIC/TEI/blob/dev/P5/Source/Guidelines/en/PH-PrimarySources.xml.
-If an issue refers to single lines of this chapter, the link on these lines should included a commit which makes this reference permanent. 
+If an issue refers to single lines of this chapter, the link on these lines should include a commit which makes this reference permanent. 
 
 ## issues already submitted to TEIC
 
