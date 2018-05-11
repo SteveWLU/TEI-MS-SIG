@@ -17,5 +17,8 @@ If an issue refers to single lines of this chapter, the link on these lines shou
 ## introductory comment about document-focused and text-focused transcription
 See Raff's comment https://github.com/TEIC/TEI/issues/1427#issuecomment-214744864.
 
+- [ ] summarize the concerns raised in the comments
+- [ ] draft 4 or 5 sentences to add to the introduction to the chapter
+
 ## `zone`, `@rotate`, and `@ulx` etc.
 Details may be added by @JSchaeuble.
