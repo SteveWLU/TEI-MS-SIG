@@ -29,6 +29,7 @@
                 separate document.</change>
             <change when="2004-02-19" who="EdwardVanhoutte">creating XML/TeixLite document</change>
             <change when="2018-05-02" who="gerritbruening">finish update</change>
+            <change when="2018-05-11" who="SteveWLU gerritbruening">finish version to publish on TEI-C page</change>
         </revisionDesc>
     </teiHeader>
     <text>
