@@ -20,5 +20,7 @@ See Raff's comment https://github.com/TEIC/TEI/issues/1427#issuecomment-21474486
 - [ ] summarize the concerns raised in the comments
 - [ ] draft 4 or 5 sentences to add to the introduction to the chapter
 
+This chapter defines a module intended for use in the representation of primary sources, such as manuscripts or other written materials. The TEI offers two basic approaches for the encoding of such materials, one that views the intellectual units of communication as the fundamental hierarchy and one that takes as its primary concern the physical arrangement of text on the inscribed surface. In the discussion that follows, these two approaches are, for the sake of convenience, sometimes termed "text-focused" and "document-focused." This usage is not meant to imply a rigorous theoretical distinction between "text" and "document," however. Nor does the emphasis in the current chapter on the second approach imply a preference for that approach. Those whose goals are better served by the latter approach are advised to use the guidelines from the current chapter in conjunction with those found in other chapters, especially _________
+
 ## `zone`, `@rotate`, and `@ulx` etc.
 Details may be added by @JSchaeuble.
