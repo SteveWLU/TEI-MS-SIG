@@ -17,7 +17,26 @@ If an issue refers to single lines of this chapter, the link on these lines shou
 ## introductory comment about document-focused and text-focused transcription
 Current version:
 
-https://github.com/TEIC/TEI/blob/78696cddc07ce1b3285417202b619857e611aa2d/P5/Source/Guidelines/en/PH-PrimarySources.xml#L13-L29
+```xml
+   <p>This chapter defines a module intended for use in the representation of primary sources, such
+      as manuscripts or other written materials. Section <ptr target="#PHFAX"/> provides elements
+      for handling digitally-encoded images of such materials. This module may also be useful in the
+      preparation of critical editions, but the module defined here is distinct from that defined in
+      chapter <ptr target="#TC"/>, and may be used independently of it. Detailed metadata relating
+      to primary sources of any kind may be recorded using the elements defined by the manuscript
+      description module discussed in chapter <ptr target="#MS"/>, but again the present module may
+      be used independently if such data is not required. </p>
+   <!-- following para may need revision? -->
+   <!-- p>It should be noted that, as elsewhere in these Guidelines,  this
+chapter places more emphasis on the problems of representing the
+textual components of a document than on those relating to the
+description of the document's physical characteristics such as the
+carrier medium or physical construction. These aspects, of particular
+importance in codicology and the bibliographic study of incunables,
+are touched on in the chapter on Manuscript Description (<ptr target="#MS"/>) and also form the subject of ongoing work in the TEI
+Physical Bibliography workgroup.</p-->
+```
+(https://github.com/TEIC/TEI/blob/78696cddc07ce1b3285417202b619857e611aa2d/P5/Source/Guidelines/en/PH-PrimarySources.xml#L13)
 
 See Raff's comment https://github.com/TEIC/TEI/issues/1427#issuecomment-214744864.
 
