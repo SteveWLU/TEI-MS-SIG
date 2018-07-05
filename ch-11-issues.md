@@ -15,6 +15,10 @@ If an issue refers to single lines of this chapter, the link on these lines shou
 * [all issues opened by gerritbruening](https://github.com/TEIC/TEI/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Agerritbruening+)
 
 ## introductory comment about document-focused and text-focused transcription
+Current version:
+
+https://github.com/TEIC/TEI/blob/78696cddc07ce1b3285417202b619857e611aa2d/P5/Source/Guidelines/en/PH-PrimarySources.xml#L13-L29
+
 See Raff's comment https://github.com/TEIC/TEI/issues/1427#issuecomment-214744864.
 
 - [ ] summarize the concerns raised in the comments
