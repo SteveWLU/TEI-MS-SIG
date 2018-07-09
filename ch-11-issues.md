@@ -87,3 +87,7 @@ but may still be viewed as transpositions from a textual point of view.
 In various egXMLs, `@change` is provided on elements `div`, `seg`, `zone`, `line`. 
 It should be explained that `@change` may also be used independently of elements the primary function of which is to record the 
 structural segmentation or the spatial distribution of the written text.
+A possible way to this would be `milestone` as [Peter Flynn](https://listserv.brown.edu/archives/cgi-bin/wa?A2=TEI-L;3ade14c3.1807) has 
+suggested on TEI-L.
+`@unit` is required on `milestone`, though, and normally its value indicates some kind of structural unit.
+`unit="change"` could be a workaround.
