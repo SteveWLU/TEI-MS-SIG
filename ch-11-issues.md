@@ -63,3 +63,13 @@ Additionally, we should provide a way to define the rotation center manually (e.
 ### change datatype of `@rotate` to `teidata.numeric`
 * section: ?
 * see issue #3
+
+### Reconsider heading "Marking up the Writing Process" 
+* section: 11.3.4
+
+It is not clear
+* why other sections (11.3.1 Altered, Corrected, and Erroneous Texts; 11.3.1.6 Cancellation of Deletions and Other Markings) should have nothing to do with the writing process
+* why substitutions are categorically distinct from transpositions
+
+The historic reason for this pretentious heading may be that the section's content consists of newly introduced elements, 
+whereas the preceding sections explain the use of well-established elements. 
