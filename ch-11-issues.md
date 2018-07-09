@@ -81,7 +81,14 @@ The section has a strong focus on visible marks (e.g., numbers).
 While it is true that these often indicate transpositions, it is also true that revisions may visibly look like additions and deletions, 
 but may still be viewed as transpositions from a textual point of view.
 
-### rething use of `@change`
+### rethink encoding of alternative readings
+* section: 11.3.4.6 Alternative Readings
+ 
+The encoding practice currently proposed is not quite satisfying.
+If there is an addition, there should also be a deletion because both readings exclude each other in the given use case.
+So the `add` requires a `del` as its correlate, at least if both readings are to be treated symmetrically.
+
+### rethink use of `@change`
 * section: 11.7
 
 In various egXMLs, `@change` is provided on elements `div`, `seg`, `zone`, `line`. 
