@@ -82,6 +82,7 @@ While it is true that these often indicate transpositions, it is also true that 
 but may still be viewed as transpositions from a textual point of view.
 
 ### rething use of `@change`
+* section: 11.7
 
 In various egXMLs, `@change` is provided on elements `div`, `seg`, `zone`, `line`. 
 It should be explained that `@change` may also be used independently of elements the primary function of which is to record the 
