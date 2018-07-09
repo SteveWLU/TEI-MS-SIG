@@ -71,7 +71,7 @@ We should then add some prose to the Guidelines to define the default rotation c
 
 ### revision draft
 
-> By default the rotation center is given by the upper left corner of the zone (ulx/uly attributes). If the zone is a non-rectangular polygon, the default rortation center is given by the first point of the polygon (points attribute).
+> By default the rotation center is given by the upper left corner of the zone (`@ulx`/`@uly` attributes). If the `zone`is a non-rectangular polygon, the default rotation center is given by the first point of the polygon (`@points`attribute).
 
 Additionally, we should provide a way to define the rotation center manually (e.g. an additional attribute). It is unclear, if the proposed solution for default values is the best. Important is, that we define default values at all.
 
