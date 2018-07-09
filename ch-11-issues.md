@@ -14,14 +14,20 @@ If an issue refers to single lines of this chapter, the link on these lines shou
 * [all issues opened by created by brettttt](https://github.com/TEIC/TEI/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Abrettttt+)
 * [all issues opened by gerritbruening](https://github.com/TEIC/TEI/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Agerritbruening+)
 
-## adjust introductory paragraph to ch. 11
-See #5.
+## new issues
+according to the current structure of the chapter 
 
-## (short description, justification)
+### adjust introductory paragraph to ch. 11
+
+### (TEI-MS-SIG info)
+* section: 11
+* See #5.
+
+### (short description, justification)
 As part of https://github.com/TEIC/TEI/issues/1427 it would make sense to adjust the introductory paragraph of chapter 11.
 This includes a brief comment about document-focused and text-focused transcription.
 
-## (suggested wording)
+### (suggested wording)
 This chapter defines a module intended for use in the representation of primary sources as facsimiles and transcription.
 The TEI offers two basic approaches for the encoding of such materials, one that views the intellectual units of communication as the 
 fundamental hierarchy and one that takes as its primary concern the physical arrangement of text on the inscribed surface. 
@@ -32,12 +38,12 @@ Nor does the emphasis in the current chapter on the second approach imply a pref
 Those whose goals are better served by the latter approach are advised to use the guidelines from the current chapter in conjunction 
 with those found in other chapters, especially _________
 
-## rotation center for `@rotate`
+### rotation center for `@rotate`
 See #4.
 
 Speaking of rotation without clearly specifying a rotation center is unapplicable. Here is what we have for the **rotate** attribute:
 
-### current version
+#### current version
 > indicates the amount by which this zone has been rotated clockwise, with respect to the normal orientation of the parent surface element as implied by the dimensions given in the msDesc element or by the coordinates of the surface itself. The orientation is expressed in arc degrees.
 
 The phrase "with respect to the normal orientation of the parent surface" is not specifying a rotation center (what doest it specify actually?). Does that mean, we rotate zones around the ulx/uly values of the parent surface?  How/Where is the "normal orientation of the parent surface" defined? How does a "normal orientation" translate into a rotation center (a point)? What if the parent surface is a non-rectangular polygon? 
@@ -45,14 +51,14 @@ Or do we by default rotate around the ulx/uly of the zone element itself (which 
 
 We should then add some prose to the Guidelines to define the default rotation center. Something like: 
 
-### revision draft
+#### revision draft
 
 > By default the rotation center is given by the upper left corner of the zone (`@ulx`/`@uly` attributes). If the `zone`is a non-rectangular polygon, the default rotation center is given by the first point of the polygon (`@points`attribute).
 
 Additionally, we should provide a way to define the rotation center manually (e.g. an additional attribute). It is unclear, if the proposed solution for default values is the best. Important is, that we define default values at all.
 
-## change datatype of `@rotate` to `teidata.numeric`
+### change datatype of `@rotate` to `teidata.numeric`
 See #3.
 
-## `@ulx` etc. on `zone`
+### `@ulx` etc. on `zone`
 Details may be added by @JSchaeuble.
