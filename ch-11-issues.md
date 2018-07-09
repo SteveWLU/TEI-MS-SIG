@@ -46,7 +46,9 @@ See Raff's comment https://github.com/TEIC/TEI/issues/1427#issuecomment-21474486
 - [ ] draft 4 or 5 sentences to add to the introduction to the chapter
 
 ### revision draft
-This chapter defines a module intended for use in the representation of primary sources, such as manuscripts or other written materials. 
+This chapter defines a module intended for use in the representation of primary sources as facsimiles and transcription.
+<small>Detailed bibliographical and physical metadata about such source documents may be recorded using the manuscript description module (chapter 10). When multiple versions of one and the same text are to involved, chapter 12 Critical Apparatus may be used to record variants across source documents.</small>
+
 The TEI offers two basic approaches for the encoding of such materials, one that views the intellectual units of communication as the 
 fundamental hierarchy and one that takes as its primary concern the physical arrangement of text on the inscribed surface. 
 In the discussion that follows, these two approaches are, for the sake of convenience, sometimes termed "text-focused" and 
