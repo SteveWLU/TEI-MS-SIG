@@ -80,3 +80,9 @@ whereas the preceding sections explain the use of well-established elements.
 The section has a strong focus on visible marks (e.g., numbers). 
 While it is true that these often indicate transpositions, it is also true that revisions may visibly look like additions and deletions, 
 but may still be viewed as transpositions from a textual point of view.
+
+### rething use of `@change`
+
+In various egXMLs, `@change` is provided on elements `div`, `seg`, `zone`, `line`. 
+It should be explained that `@change` may also be used independently of elements the primary function of which is to record the 
+structural segmentation or the spatial distribution of the written text.
