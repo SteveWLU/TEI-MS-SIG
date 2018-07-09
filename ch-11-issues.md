@@ -18,8 +18,6 @@ If an issue refers to single lines of this chapter, the link on these lines shou
 according to the current structure of the chapter 
 
 ### adjust introductory paragraph to ch. 11
-
-#### (TEI-MS-SIG info)
 * section: 11
 * see issue #5
 
@@ -38,10 +36,12 @@ Nor does the emphasis in the current chapter on the second approach imply a pref
 Those whose goals are better served by the latter approach are advised to use the guidelines from the current chapter in conjunction 
 with those found in other chapters, especially _________
 
-### rotation center for `@rotate`
+### `@ulx` etc. on `zone`
+* section: 11.1
+Details may be added by @JSchaeuble.
 
-#### (TEI-MS-SIG info)
-* section: 
+### rotation center for `@rotate`
+* section: ?
 * see issue #4
 
 Speaking of rotation without clearly specifying a rotation center is unapplicable. Here is what we have for the **rotate** attribute:
@@ -61,10 +61,5 @@ We should then add some prose to the Guidelines to define the default rotation c
 Additionally, we should provide a way to define the rotation center manually (e.g. an additional attribute). It is unclear, if the proposed solution for default values is the best. Important is, that we define default values at all.
 
 ### change datatype of `@rotate` to `teidata.numeric`
-
-#### (TEI-MS-SIG info)
-* section: 
+* section: ?
 * see issue #3
-
-### `@ulx` etc. on `zone`
-Details may be added by @JSchaeuble.
