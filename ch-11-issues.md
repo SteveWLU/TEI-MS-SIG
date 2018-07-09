@@ -33,6 +33,8 @@ Those whose goals are better served by the latter approach are advised to use th
 with those found in other chapters, especially _________
 
 ## rotation center for `@rotate`
+See #4.
+
 Speaking of rotation without clearly specifying a rotation center is unapplicable. Here is what we have for the **rotate** attribute:
 
 ### current version
@@ -49,7 +51,8 @@ We should then add some prose to the Guidelines to define the default rotation c
 
 Additionally, we should provide a way to define the rotation center manually (e.g. an additional attribute). It is unclear, if the proposed solution for default values is the best. Important is, that we define default values at all.
 
-## change datatype of @rotate attribute to teidata.numeric
+## change datatype of `@rotate` to `teidata.numeric`
+See #3.
 
 ## `@ulx` etc. on `zone`
 Details may be added by @JSchaeuble.
