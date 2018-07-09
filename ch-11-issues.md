@@ -72,4 +72,11 @@ It is not clear
 * why substitutions are categorically distinct from transpositions
 
 The historic reason for this pretentious heading may be that the section's content consists of newly introduced elements, 
-whereas the preceding sections explain the use of well-established elements. 
+whereas the preceding sections explain the use of well-established elements.
+
+### differentiate between visible marks of transpositions and textual transpositions  
+* section: 11.3.4.5 Transpositions
+
+The section has a strong focus on visible marks (e.g., numbers). 
+While it is true that these often indicate transpositions, it is also true that revisions may visibly look like additions and deletions, 
+but may still be viewed as transpositions from a textual point of view.
