@@ -38,7 +38,7 @@ with those found in other chapters, especially _________
 
 ### `@ulx` etc. on `zone`
 * section: 11.1
-Details may be added by @JSchaeuble.
+* see issue #6
 
 ### rotation center for `@rotate`
 * section: ?
