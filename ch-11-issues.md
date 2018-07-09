@@ -58,5 +58,8 @@ Nor does the emphasis in the current chapter on the second approach imply a pref
 Those whose goals are better served by the latter approach are advised to use the guidelines from the current chapter in conjunction 
 with those found in other chapters, especially _________
 
-## `zone`, `@rotate`, and `@ulx` etc.
+## rotation center for `@rotate`
+Details may be added by @JSchaeuble.
+
+## `@ulx` etc. on `zone`
 Details may be added by @JSchaeuble.
