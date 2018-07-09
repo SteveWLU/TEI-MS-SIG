@@ -59,7 +59,21 @@ Those whose goals are better served by the latter approach are advised to use th
 with those found in other chapters, especially _________
 
 ## rotation center for `@rotate`
-Details may be added by @JSchaeuble.
+Speaking of rotation without clearly specifying a rotation center is unapplicable. Here is what we have for the **rotate** attribute:
+
+### current version
+> indicates the amount by which this zone has been rotated clockwise, with respect to the normal orientation of the parent surface element as implied by the dimensions given in the msDesc element or by the coordinates of the surface itself. The orientation is expressed in arc degrees.
+
+The phrase "with respect to the normal orientation of the parent surface" is not specifying a rotation center (what doest it specify actually?). Does that mean, we rotate zones around the ulx/uly values of the parent surface?  How/Where is the "normal orientation of the parent surface" defined? How does a "normal orientation" translate into a rotation center (a point)? What if the parent surface is a non-rectangular polygon? 
+Or do we by default rotate around the ulx/uly of the zone element itself (which is more reasonable)? What if the zone is a non-rect polygon? I assume in the latter case the best default rotation center would be the first point of the polygon (that is: of the **points** attribute value)?
+
+We should then add some prose to the Guidelines to define the default rotation center. Something like: 
+
+### revision draft
+
+> By default the rotation center is given by the upper left corner of the zone (ulx/uly attributes). If the zone is a non-rectangular polygon, the default rortation center is given by the first point of the polygon (points attribute).
+
+Additionally, we should provide a way to define the rotation center manually (e.g. an additional attribute). It is unclear, if the proposed solution for default values is the best. Important is, that we define default values at all.
 
 ## `@ulx` etc. on `zone`
 Details may be added by @JSchaeuble.
