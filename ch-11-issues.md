@@ -1,8 +1,6 @@
 # Issues on Chapter 11 of the TEI Guidelines
 
 ## issues already submitted to TEIC
-
-### notable open issues
 * [Restructure chapter 11 (#1427)](https://github.com/TEIC/TEI/issues/1427) 
 * [ Merge 11.3.1.6 and 11.3.4.4 (#1477)](https://github.com/TEIC/TEI/issues/1477)
 
