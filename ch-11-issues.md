@@ -9,7 +9,7 @@ according to the current structure of the chapter
 
 ### adjust introductory paragraph to ch. 11
 * section: 11
-* see issue #5
+* see [issue #5](https://github.com/SteveWLU/TEI-MS-SIG/issues/5)
 
 #### (short description, justification)
 As part of https://github.com/TEIC/TEI/issues/1427 it would make sense to adjust the introductory paragraph of chapter 11.
