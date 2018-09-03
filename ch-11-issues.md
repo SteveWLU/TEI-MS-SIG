@@ -64,6 +64,11 @@ Additionally, we should provide a way to define the rotation center manually (e.
 * section: ?
 * see issue #3
 
+### `add` / `del` / `subst` and block elements
+* section: 11.3.1.5 Substitutions
+
+See [Add/del/subst and block elements](https://listserv.brown.edu/archives/cgi-bin/wa?A2=TEI-L;faab6cdb.1807) and the following discussion on TEI-L.
+
 ### Reconsider heading "Marking up the Writing Process" 
 * section: 11.3.4
 
