@@ -89,7 +89,7 @@ If there is an addition, there should also be a deletion because both readings e
 So the `add` requires a `del` as its correlate, at least if both readings are to be treated symmetrically.
 
 ### rethink use of `@change`
-* section: 11.7
+* section: 11.7 Identifying Changes and Revisions
 
 In various egXMLs, `@change` is provided on elements `div`, `seg`, `zone`, `line`. 
 It should be explained that `@change` may also be used independently of elements the primary function of which is to record the 
