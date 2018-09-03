@@ -1,18 +1,10 @@
 # Issues on Chapter 11 of the TEI Guidelines
 
-## technical information
-Issues refer to https://github.com/TEIC/TEI/blob/dev/P5/Source/Guidelines/en/PH-PrimarySources.xml.
-If an issue refers to single lines of this chapter, the link on these lines should include a commit which makes this reference permanent. 
-
 ## issues already submitted to TEIC
 
 ### notable open issues
 * [Restructure chapter 11 (#1427)](https://github.com/TEIC/TEI/issues/1427) 
 * [ Merge 11.3.1.6 and 11.3.4.4 (#1477)](https://github.com/TEIC/TEI/issues/1477)
-
-### lists
-* [all issues opened by created by brettttt](https://github.com/TEIC/TEI/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Abrettttt+)
-* [all issues opened by gerritbruening](https://github.com/TEIC/TEI/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Agerritbruening+)
 
 ## new issues
 according to the current structure of the chapter 
@@ -103,3 +95,11 @@ A possible way to this would be `milestone` as [Peter Flynn](https://listserv.br
 suggested on TEI-L.
 `@unit` is required on `milestone`, though, and normally its value indicates some kind of structural unit.
 `unit="change"` could be a workaround.
+
+## technical information
+Issues refer to https://github.com/TEIC/TEI/blob/dev/P5/Source/Guidelines/en/PH-PrimarySources.xml.
+If an issue refers to single lines of this chapter, the link on these lines should include a commit which makes this reference permanent. 
+
+### lists
+* [all issues opened by created by brettttt](https://github.com/TEIC/TEI/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Abrettttt+)
+* [all issues opened by gerritbruening](https://github.com/TEIC/TEI/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Agerritbruening+)
