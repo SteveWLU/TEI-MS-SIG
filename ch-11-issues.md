@@ -8,7 +8,6 @@
 according to the current structure of the chapter 
 
 ### adjust introductory paragraph to ch. 11
-* section: 11
 * see [issue #5](https://github.com/SteveWLU/TEI-MS-SIG/issues/5)
 
 #### (short description, justification)
