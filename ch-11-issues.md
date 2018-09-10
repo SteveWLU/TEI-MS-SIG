@@ -93,6 +93,20 @@ suggested on TEI-L.
 `@unit` is required on `milestone`, though, and normally its value indicates some kind of structural unit.
 `unit="change"` could be a workaround.
 
+## Issues connected to ch. 11
+
+### Use of `del` and `gap` in combination
+* section: 3.4.3 
+
+> The `<del>` element should not be used where the deletion is such that material cannot be read with confidence, ...
+
+Later it is said that 
+> A deletion in which some parts may be read but not others may thus be represented by one or more `<gap>` 
+> elements intermingled with text, all contained by a `<del>` element.
+
+It seems unnecessary to avoid `<del></gab></del>`, especially because it is often the case that something that cannot be read with confidence is 
+substituted by something readable. `subst` requires `del` and `add` as its children.
+
 ## technical information
 Issues refer to https://github.com/TEIC/TEI/blob/dev/P5/Source/Guidelines/en/PH-PrimarySources.xml.
 If an issue refers to single lines of this chapter, the link on these lines should include a commit which makes this reference permanent. 
