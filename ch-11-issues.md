@@ -27,11 +27,11 @@ with those found in other chapters, especially _________
 
 ### `@ulx` etc. on `zone`
 * section: 11.1
-* see issue #6
+* corresponding issue [#6](https://github.com/SteveWLU/TEI-MS-SIG/issues/6)
 
 ### rotation center for `@rotate`
 * section: ?
-* see issue #4
+* for discussion, see issue [#4](https://github.com/SteveWLU/TEI-MS-SIG/issues/4)
 
 Speaking of rotation without clearly specifying a rotation center is unapplicable. Here is what we have for the **rotate** attribute:
 
@@ -51,7 +51,7 @@ Additionally, we should provide a way to define the rotation center manually (e.
 
 ### change datatype of `@rotate` to `teidata.numeric`
 * section: ?
-* see issue #3
+* for discussion, see issue [#3](https://github.com/SteveWLU/TEI-MS-SIG/issues/3)
 
 ### `add` / `del` / `subst` and block elements
 * section: 11.3.1.5 Substitutions
