@@ -5,7 +5,14 @@
 * [ Merge 11.3.1.6 and 11.3.4.4 (#1477)](https://github.com/TEIC/TEI/issues/1477)
 
 ## new issues
-according to the current structure of the chapter 
+ordered according to the current structure of the chapter 
+
+### forget about ch. 11
+What if ch. 11 did not exist and we had to write it from scratch?
+* What would it be about?
+* What would be called?
+* How would it be structured?
+* Would it overlap with content present elsewhere in the Guidelines? (e.g., in ch. 3)
 
 ### adjust introductory paragraph to ch. 11
 * see [issue #5](https://github.com/SteveWLU/TEI-MS-SIG/issues/5)
@@ -94,6 +101,9 @@ suggested on TEI-L.
 `unit="change"` could be a workaround.
 
 ## Issues connected to ch. 11
+
+### Move 3.4.3 Additions, Deletions, and Omissions to ch. 11
+* section: 3.4.3 
 
 ### Use of `del` and `gap` in combination
 * section: 3.4.3 
