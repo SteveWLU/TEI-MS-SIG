@@ -39,16 +39,6 @@ Possible thematic kernels of chapter(s):
 * printed editions (descriptive bibliography)
 * editorial intrusions (`corr`-like) / restraint (`gap`-like)  
 
-### BTW, stop mansplaining
-
-> This familiar tree model is complicated [☝] because manuscripts sometimes show the influence of more than 
-> one ancestor. They may have been produced by a scribe who checked the text in one manuscript of the 
-> same work whilst copying from another, or perhaps made changes from his memory of a slightly 
-> different version of the text that he [!] had read elsewhere.
-
-Joking apart, passages should be dropped that unmotivatedly explain things to people who are likely not interested in such 
-explanations (either they know, or it's not relevant for them at this point). 
-
 ### adjust introductory paragraph to ch. 11
 * see [issue #5](https://github.com/SteveWLU/TEI-MS-SIG/issues/5)
 
@@ -151,6 +141,17 @@ Later it is said that
 
 It seems unnecessary to avoid `<del><gap/></del>`, especially because it is often the case that something that cannot be read with confidence is 
 substituted by something readable. `subst` requires `del` and `add` as its children.
+
+
+### BTW, stop mansplaining
+
+> This familiar tree model is complicated [☝] because manuscripts sometimes show the influence of more than 
+> one ancestor. They may have been produced by a scribe who checked the text in one manuscript of the 
+> same work whilst copying from another, or perhaps made changes from his memory of a slightly 
+> different version of the text that he [!] had read elsewhere.
+
+Joking apart, passages should be dropped that unmotivatedly explain things to people who are likely not interested in such 
+explanations (either they know, or it's not relevant for them at this point). 
 
 ## technical information
 Issues refer to https://github.com/TEIC/TEI/blob/dev/P5/Source/Guidelines/en/PH-PrimarySources.xml.
