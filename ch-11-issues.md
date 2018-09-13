@@ -7,7 +7,7 @@
 ## new issues
 ordered according to the current structure of the chapter 
 
-### forget about ch. 11
+### forget about the present ch. 11 for a moment
 What if ch. 11 did not exist and we had to write it from scratch:
 * What would it be about?
 * Would it be one chapter or more?
