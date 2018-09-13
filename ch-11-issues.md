@@ -40,10 +40,10 @@ Possible thematic kernels of chapter(s):
 * editorial intrusions (`corr`-like) / restraint (`gap`-like)  
 
 ### stop mansplaining
-> This familiar tree model is complicated [listen!] because manuscripts sometimes show the influence of more than 
+> This familiar tree model is complicated [☝] because manuscripts sometimes show the influence of more than 
 > one ancestor. They may have been produced by a scribe who checked the text in one manuscript of the 
 > same work whilst copying from another, or perhaps made changes from his memory of a slightly 
-> different version of the text that he [!!] had read elsewhere.
+> different version of the text that he [!] had read elsewhere.
 
 What I mean is, drop passages that unmotivatedly explain things to people who likely not interested in such 
 explanations (either they know, or it's not relevant for them). 
