@@ -10,9 +10,16 @@ ordered according to the current structure of the chapter
 ### forget about ch. 11
 What if ch. 11 did not exist and we had to write it from scratch?
 * What would it be about?
+  * manuscripts
+  * single documents instead of variants between them (--> ch. 12)
+  * physical characteristics of the object which carries a text
+  * "editorial transcription" (http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-model.pPart.transcriptional.html), i.e., a special way to handle material
+* It would definitely not be about
+  * genres of text 
+* Would it be one chapter or more?
 * What would be called?
 * How would it be structured?
-* Would it overlap with content present elsewhere in the Guidelines? (e.g., in ch. 3)
+* Would it overlap with content present elsewhere in the Guidelines? (e.g., in ch. 3, section 3.4.3, see below)
 
 ### adjust introductory paragraph to ch. 11
 * see [issue #5](https://github.com/SteveWLU/TEI-MS-SIG/issues/5)
@@ -114,7 +121,7 @@ Later it is said that
 > A deletion in which some parts may be read but not others may thus be represented by one or more `<gap>` 
 > elements intermingled with text, all contained by a `<del>` element.
 
-It seems unnecessary to avoid `<del></gab></del>`, especially because it is often the case that something that cannot be read with confidence is 
+It seems unnecessary to avoid `<del><gap/></del>`, especially because it is often the case that something that cannot be read with confidence is 
 substituted by something readable. `subst` requires `del` and `add` as its children.
 
 ## technical information
