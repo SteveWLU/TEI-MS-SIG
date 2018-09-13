@@ -15,11 +15,30 @@ What if ch. 11 did not exist and we had to write it from scratch?
   * physical characteristics of the object which carries a text
   * "editorial transcription" (http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-model.pPart.transcriptional.html), i.e., a special way to handle material
 * It would definitely not be about
-  * genres of text 
+  * genres of text
+* Possible thematic kernels of chapter(s)
+  * all manuscript related stuff
+     * transcription with codicological background
+     * modern manuscripts
+     * ancient / non european manuscripts / prints
+  * epigraphy
+  * facsimiles / images and their integration with a text encoding
+  * critical schools (critique génétique, ultra-diplomatic, fluid text, Greg-Bowers, german editorial theory)
+  * printed editions (descriptive bibliography)
+  * editorial intrusions (`corr`-like) / restraint (`gap`-like)  
 * Would it be one chapter or more?
 * What would be called?
 * How would it be structured?
 * Would it overlap with content present elsewhere in the Guidelines? (e.g., in ch. 3, section 3.4.3, see below)
+
+### stop mansplaining
+> This familiar tree model is complicated [listen!] because manuscripts sometimes show the influence of more than 
+> one ancestor. They may have been produced by a scribe who checked the text in one manuscript of the 
+> same work whilst copying from another, or perhaps made changes from his memory of a slightly 
+> different version of the text that he [!!] had read elsewhere.
+
+What I mean is, drop passages that unmotivatedly explain things to people who likely not interested in such 
+explanations (either they know, or it's not relevant for them). 
 
 ### adjust introductory paragraph to ch. 11
 * see [issue #5](https://github.com/SteveWLU/TEI-MS-SIG/issues/5)
