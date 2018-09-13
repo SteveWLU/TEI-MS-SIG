@@ -8,28 +8,36 @@
 ordered according to the current structure of the chapter 
 
 ### forget about ch. 11
-What if ch. 11 did not exist and we had to write it from scratch?
+What if ch. 11 did not exist and we had to write it from scratch:
 * What would it be about?
-  * manuscripts
-  * single documents instead of variants between them (--> ch. 12)
-  * physical characteristics of the object which carries a text
-  * "editorial transcription" (http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-model.pPart.transcriptional.html), i.e., a special way to handle material
-* It would definitely not be about
-  * genres of text
-* Possible thematic kernels of chapter(s)
-  * all manuscript related stuff
-     * transcription with codicological background
-     * modern manuscripts
-     * ancient / non european manuscripts / prints
-  * epigraphy
-  * facsimiles / images and their integration with a text encoding
-  * critical schools (critique génétique, ultra-diplomatic, fluid text, Greg-Bowers, german editorial theory)
-  * printed editions (descriptive bibliography)
-  * editorial intrusions (`corr`-like) / restraint (`gap`-like)  
 * Would it be one chapter or more?
 * What would be called?
 * How would it be structured?
-* Would it overlap with content present elsewhere in the Guidelines? (e.g., in ch. 3, section 3.4.3, see below)
+* Would it overlap with content present elsewhere in the Guidelines, that is, would it be an option to move material from other chapters into the new ch. 11?
+
+The chapter could be about:
+* manuscript transcription
+* single documents instead of variants between them (--> ch. 12)
+* physical characteristics of the handwritten, typewritten, printed, engraved, audiorecorded text
+* "editorial transcription" (http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-model.pPart.transcriptional.html), i.e., a special way to handle material
+
+It would most likely not be about
+* genres of text
+* manuscript description / descriptive bibliography (information about the object that carries a text)
+* critical apparatus as an input
+* 19.4 Representing Textual Transmission
+although these items might be relevant for a transcription or closely related to it.
+
+Possible thematic kernels of chapter(s):
+* all manuscript related stuff
+   * transcription with codicological background
+   * modern manuscripts
+   * ancient / non european manuscripts / prints
+* epigraphy
+* facsimiles / images and their integration with a text encoding
+* critical schools (critique génétique, ultra-diplomatic, fluid text, Greg-Bowers, german editorial theory)
+* printed editions (descriptive bibliography)
+* editorial intrusions (`corr`-like) / restraint (`gap`-like)  
 
 ### stop mansplaining
 > This familiar tree model is complicated [listen!] because manuscripts sometimes show the influence of more than 
