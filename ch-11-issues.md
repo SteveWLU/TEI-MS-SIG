@@ -2,7 +2,7 @@
 
 ## issues already submitted to TEIC
 * [Restructure chapter 11 (#1427)](https://github.com/TEIC/TEI/issues/1427) 
-* [ Merge 11.3.1.6 and 11.3.4.4 (#1477)](https://github.com/TEIC/TEI/issues/1477)
+* [Merge 11.3.1.6 and 11.3.4.4 (#1477)](https://github.com/TEIC/TEI/issues/1477)
 
 ## new issues
 ordered according to the current structure of the chapter 
@@ -24,7 +24,7 @@ The chapter could be about:
 It would most likely not be about
 * genres of text
 * manuscript description / descriptive bibliography (information about the object that carries a text)
-* critical apparatus as an input
+* critical apparatus as an pre-existing text that would be encoded
 * 19.4 Representing Textual Transmission
 although these items might be relevant for a transcription or closely related to it.
 
