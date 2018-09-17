@@ -28,7 +28,7 @@ It would most likely not be about
 * 19.4 Representing Textual Transmission
 although these items might be relevant for a transcription or closely related to it.
 
-Possible thematic kernels of chapter(s):
+Potential thematic kernels of chapter(s):
 * all manuscript related stuff
    * transcription with codicological background
    * modern manuscripts
@@ -37,7 +37,21 @@ Possible thematic kernels of chapter(s):
 * facsimiles / images and their integration with a text encoding
 * critical schools (critique génétique, ultra-diplomatic, fluid text, Greg-Bowers, german editorial theory)
 * printed editions (descriptive bibliography)
-* editorial intrusions (`corr`-like) / restraint (`gap`-like)  
+* editorial intrusions (`corr`-like) / restraint (`gap`-like)
+
+Potential headings of ch. 11
+* Diplomatic Transcription 
+   * Does not honor the fact that the chapter is also covering facsimiles, but
+   * Corresponds the name of the module and the name's explanation: `transcr: Transcription of primary sources`".
+* Transcription and Facsimile
+   * Corresponds to the natural or typical order of steps: transcribe, than link facsimiles.    
+* Facsimile and Transcription
+   * Corresponds to the current structure of the chapter.
+* Representation of Primary Sources (current)
+   * "representation" honors the fact that the chapter is not only about transcription (also about facsimile).
+   * "representation" is vague (if technically adequate) 
+   * "primary" is odd since all "sources" subject to an encoding would be "primary", not secondary.
+   * "sources" makes sense if there are primary and secondary ones; but this distinction does make sense here. 
 
 ### adjust introductory paragraph to ch. 11
 * see [issue #5](https://github.com/SteveWLU/TEI-MS-SIG/issues/5)
