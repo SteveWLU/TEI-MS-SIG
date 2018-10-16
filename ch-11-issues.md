@@ -26,6 +26,7 @@ It would most likely not be about
 * manuscript description / descriptive bibliography (information about the object that carries a text)
 * critical apparatus as an pre-existing text that would be encoded
 * 19.4 Representing Textual Transmission
+
 although these items might be relevant for a transcription or closely related to it.
 
 Potential thematic kernels of chapter(s):
@@ -43,9 +44,9 @@ Potential headings of ch. 11
 * Diplomatic Transcription 
    * Does not honor the fact that the chapter is also covering facsimiles, but
    * Corresponds the name of the module and the name's explanation: `transcr: Transcription of primary sources`".
-* Transcription and Facsimile
+* (Diplomatic) Transcription and Facsimile
    * Corresponds to the natural or typical order of steps: transcribe, than link facsimiles.    
-* Facsimile and Transcription
+* Facsimile and (Diplomatic) Transcription
    * Corresponds to the current structure of the chapter.
 * Representation of Primary Sources (current)
    * "representation" honors the fact that the chapter is not only about transcription (also about facsimile).
