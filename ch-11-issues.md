@@ -53,6 +53,8 @@ Potential headings of ch. 11
    * "representation" is vague (if technically adequate) 
    * "primary" is odd since all "sources" subject to an encoding would be "primary", not secondary.
    * "sources" makes sense if there are primary and secondary ones; but this distinction does make sense here. 
+   
+Potential sections and subsections
 
 ### adjust introductory paragraph to ch. 11
 * see [issue #5](https://github.com/SteveWLU/TEI-MS-SIG/issues/5)
