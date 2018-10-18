@@ -55,6 +55,7 @@ Potential headings of ch. 11
    * "sources" makes sense if there are primary and secondary ones; but this distinction does make sense here. 
    
 Potential sections and subsections
+(@martinascholger proposed to add these)
 
 ### adjust introductory paragraph to ch. 11
 * see [issue #5](https://github.com/SteveWLU/TEI-MS-SIG/issues/5)
